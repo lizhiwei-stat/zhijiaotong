@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+models/
+data/raw/
+*.safetensors
+*.bin
+.ipynb_checkpoints/
+wandb/
+*.log
+.vscode/
+.idea/
