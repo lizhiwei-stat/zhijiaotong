@@ -1,5 +1,10 @@
 # 🎓 职教通 | Zhijiaotong
 
+## 📝 相关博客
+
+- [从图注意力到自注意力](https://zhuanlan.zhihu.com/p/2030601527161770965)
+- (后续博客陆续更新)
+
 > 面向职业院校的 AI 教学助手 Agent 系统
 > LLM + LoRA + RAG + Multi-Agent · 数据不出校园 · 本地离线部署
 
